@@ -1,7 +1,7 @@
 # Grails rest-api 
 ## with codenarcs openclover swagger and spring-security-rest integration
 
-| Tables         Are            Cool  |
+| Tables        | Are           |Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
