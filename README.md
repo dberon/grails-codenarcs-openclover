@@ -1,5 +1,5 @@
 # Grails rest-api 
-### with codenarcs openclover swagger and spring-security-rest integration
+### Codenarcs openclover swagger and spring-security-rest integration
 
 The following versions were used:
 
