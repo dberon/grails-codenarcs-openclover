@@ -1,1 +1,1 @@
-Grails codenarcs-openclover
+**Grails rest-api with codenarcs openclover spring-security-rest integration**
