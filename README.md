@@ -1,4 +1,5 @@
-# Grails rest-api with codenarcs openclover spring-security-rest integration
+# Grails rest-api 
+## with codenarcs openclover spring-security-rest integration
 
 [gradle-clover-pluing by bmuschko][1]
 
