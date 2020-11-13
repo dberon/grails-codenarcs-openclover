@@ -1,11 +1,11 @@
 # Grails rest-api 
 ## with codenarcs openclover swagger and spring-security-rest integration
 
-| Tables        | Are           |Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 
+| Name       | Version           |
+| ------------- |:-------------:| 
+| JDK      | 11 |
+| Grails      | 4.0.4      |
+| Gorm | 7.0.6.RELEASE      
 
 The following pluigns were inegrated in this rest-api
 
