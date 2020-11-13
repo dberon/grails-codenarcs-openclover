@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.AgisControllerSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-13T13:38:03" hostname="diego-pc" time="0.003">
+  <properties/>
+  <testcase name="test something" classname="app.AgisControllerSpec" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
