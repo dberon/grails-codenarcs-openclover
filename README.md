@@ -10,8 +10,11 @@
 The following pluigns were inegrated in this rest-api
 
 [gradle-clover-pluing by bmuschko][1]
+
 [grails codenarc guide][2]
+
 [grails spring-security-rest][3]
+
 [grails steamcleaner-swagger][4]
 
 [1]: https://github.com/bmuschko/gradle-clover-plugin
