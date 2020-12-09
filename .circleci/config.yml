@@ -3,12 +3,6 @@
    build-deploy:
      jobs:
        - build
-       - deploy:
-           requires:
-             - build
-           filters:
-             branches:
-               only: master # Only deploys when the commit is on the Master branch
 
  jobs:
    build:
@@ -37,7 +31,7 @@
       - run:
           working_directory: ~/repo/root
           name: build war
-          command: ./gradlew bootWar
+          command: ./gradlew dev war
       - store_artifacts: # <11>
           path: build/libs
           destination: libs
