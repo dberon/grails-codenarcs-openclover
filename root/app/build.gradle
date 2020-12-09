@@ -69,11 +69,11 @@ dependencies {
     testCompile "org.grails.plugins:geb" //circleci
     testCompile "org.seleniumhq.selenium:htmlunit-driver:2.35.1" //circleci
     testRuntime 'net.sourceforge.htmlunit:htmlunit:2.35.0' //circleci
-//    testRuntime "org.seleniumhq.selenium:selenium-chrome-driver:$seleniumVersion" //circleci
-//    testRuntime "org.seleniumhq.selenium:selenium-firefox-driver:$seleniumVersion" //circleci
-//    testCompile "org.seleniumhq.selenium:selenium-remote-driver:$seleniumVersion" //circleci
-//    testCompile "org.seleniumhq.selenium:selenium-api:$seleniumVersion" //circleci
-//    testCompile "org.seleniumhq.selenium:selenium-support:$seleniumVersion" //circleci
+    testRuntime "org.seleniumhq.selenium:selenium-chrome-driver:$seleniumVersion" //circleci
+    testRuntime "org.seleniumhq.selenium:selenium-firefox-driver:$seleniumVersion" //circleci
+    testCompile "org.seleniumhq.selenium:selenium-remote-driver:$seleniumVersion" //circleci
+    testCompile "org.seleniumhq.selenium:selenium-api:$seleniumVersion" //circleci
+    testCompile "org.seleniumhq.selenium:selenium-support:$seleniumVersion" //circleci
     compile "org.grails.plugins:gorm-graphql-plugin:2.0.1.BUILD-SNAPSHOT"
     compile "org.grails.plugins:swagger-grails:0.4.0" //swagger
     compileOnly "io.micronaut:micronaut-inject-groovy"
