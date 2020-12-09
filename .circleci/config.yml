@@ -28,7 +28,7 @@
                 key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
       - run:
           name: Download Dependencies
-          working_directory: ~/code/MyApp
+          working_directory: ~/repo/app
           command: chmod +x gradlew
       - run: ./gradlew --console=plain testClasses  # <7>
       - run: ./gradlew --console=plain integrationTestClasses  # <8>
