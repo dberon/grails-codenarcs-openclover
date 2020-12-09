@@ -128,6 +128,11 @@ tasks.withType(Test) {
 // end::testLogging[]
 }
 
+bootWar {
+    baseName = 'deploy'
+    archiveName 'service.war'
+}
+
 codenarc {
     // We need to remove the following line
     //ignoreFailures = true
