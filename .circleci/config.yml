@@ -31,7 +31,7 @@
           name: test classes
           command: ./gradlew --console=plain testClasses
       - run:
-          working_directory: ~/repo/root
+          working_directory: ~/repo/root/app
           name: integration test classes
           command: ./gradlew --console=plain integrationTestClasses
       - save_cache: # <9>
