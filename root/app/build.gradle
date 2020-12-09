@@ -117,6 +117,17 @@ tasks.withType(GroovyCompile) {
     }
 }
 
+tasks.withType(Test) {
+    systemProperty "geb.env", System.getProperty('geb.env')
+    systemProperty "geb.build.reportsDir", reporting.file("geb/integrationTest")
+// tag::testLogging[]
+    testLogging {
+        events "passed", "skipped", "failed"
+        exceptionFormat 'full'
+    }
+// end::testLogging[]
+}
+
 codenarc {
     // We need to remove the following line
     //ignoreFailures = true

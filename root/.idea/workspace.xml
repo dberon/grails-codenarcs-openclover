@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../Proyectos Test/test/test/build.gradle" description="&#10;tasks.withType(Test) {&#10;    systemProperty &quot;geb.en..." line="102" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f26ba6-c512-45dc-8b7d-da2e9d71adfc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -45,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+            <state relative-caret-position="208">
+              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
         </entry>
@@ -226,12 +229,12 @@
       <workItem from="1606918244576" duration="8000" />
       <workItem from="1606927172650" duration="1377000" />
       <workItem from="1607009650401" duration="9000" />
-      <workItem from="1607518754479" duration="3404000" />
+      <workItem from="1607518754479" duration="3422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29722000" />
+    <option name="totallyTimeSpent" value="29740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1604" height="875" extended-state="6" />
@@ -969,8 +972,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+        <state relative-caret-position="208">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>

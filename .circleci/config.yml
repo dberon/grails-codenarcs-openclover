@@ -34,3 +34,16 @@
           working_directory: ~/repo/root
           name: integration test classes
           command: ./gradlew --console=plain integrationTestClasses
+      - save_cache: # <9>
+                paths:
+                  - ~/.gradle
+                key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
+      - run:
+          working_directory: ~/repo/root
+          name: build war
+          command: ./gradlew bootWar
+      - store_artifacts: # <11>
+          path: build/libs
+          destination: libs
+      - store_test_results: # <12>
+          path: build/test-results
