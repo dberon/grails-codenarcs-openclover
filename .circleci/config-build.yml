@@ -52,7 +52,7 @@
                 paths:
                   - ~/.gradle
                 key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
-      - run: ./gradlew bootWar  # <10>
+      - run: ./gradlew dev war  # <10>
       - run: # Upload War
            name: Upload war
            command: curl --upload-file /home/circleci/repo/build/libs/repo-0.1.war http://186.108.241.244:8080/manager/text/deploy?path=/my-app --user tomcat:tomcat
