@@ -1,11 +1,13 @@
  workflows: # Define a Workflow running the build job, then the deploy job
    version: 2
-   build-deploy:
+   build-and-manual-deploy:
      jobs:
        - build
+       - hold: # <<< A job that will require manual approval in the CircleCI web application.
+          type: approval # <<< This key-value pair will set your workflow to a status of "On Hold"
+          requires: # We only run the "hold" job when test2 has succeeded
+           - build
        - deploy:
-           requires:
-             - build
            filters:
              branches:
                only: master # Only deploys when the commit is on the Master branch
@@ -43,7 +45,6 @@
           destination: libs
       - store_test_results: # <12>
           path: build/test-results
-
    deploy:
      working_directory: ~/repo
      docker:
