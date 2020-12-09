@@ -12,7 +12,7 @@
 
  jobs:
    build:
-     working_directory: ~/repo/root
+     working_directory: ~/repo
      docker:
       - image: circleci/openjdk:11-jdk-browsers # <2>
      environment:
@@ -21,7 +21,16 @@
      steps: # <4>
       - checkout  # <5>
       - restore_cache: # <6>
-                key: grailsapp-{{ checksum "app/build.gradle" }}-{{ checksum "gradle.properties" }}
-      - run: chmod +x gradlew
-      - run: ./gradlew --console=plain testClasses  # <7>
-      - run: ./gradlew --console=plain integrationTestClasses  # <8>
+                key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
+      - run:
+          working_directory: ~/repo/root
+          name: change gradle permissions
+          command: chmod +x gradlew
+      - run:
+          working_directory: ~/repo/root
+          name: test classes
+          command: ./gradlew --console=plain testClasses
+      - run:
+          working_directory: ~/repo/root
+          name: integration test classes
+          command: ./gradlew --console=plain integrationTestClasses
