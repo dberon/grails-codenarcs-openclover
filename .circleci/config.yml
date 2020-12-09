@@ -28,11 +28,11 @@
                 key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
       - run:
           working_directory: ~/repo/root
-          name: change gradle permissions
+          name: Change gradle permissions
           command: chmod +x gradlew
       - run:
           working_directory: ~/repo/root
-          name: test classes
+          name: Test classes
           command: ./gradlew --console=plain testClasses
       - save_cache: # <9>
                 paths:
@@ -40,7 +40,7 @@
                 key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
       - run:
           working_directory: ~/repo/root
-          name: build war
+          name: Build war
           command: ./gradlew bootWar
       - store_artifacts: # <11>
           path: root/app/build/libs
@@ -60,13 +60,13 @@
                 key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
       - run:
           working_directory: ~/repo/root
-          name: change gradle permissions
+          name: Change gradle permissions
           command: chmod +x gradlew
       - run:
           working_directory: ~/repo/root
-          name: build war
+          name: Build war
           command: ./gradlew bootWar
-      - run: # Upload War
-           name: Upload war
+      - run: # Deploy war
+           name: Deploy war
            command: curl --upload-file /home/circleci/repo/root/app/build/libs/deploy.war http://190.137.79.144:8080/manager/text/deploy?path=/my-app --user tomcat:tomcat
            
