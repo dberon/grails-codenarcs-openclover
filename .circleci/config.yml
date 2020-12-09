@@ -26,6 +26,7 @@
       - checkout  # <5>
       - restore_cache: # <6>
                 key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
+      - run cd root/app
       - run: chmod +x gradlew
       - run: ./gradlew --console=plain testClasses  # <7>
       - run: ./gradlew --console=plain integrationTestClasses  # <8>
