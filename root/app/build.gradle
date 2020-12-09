@@ -130,7 +130,7 @@ tasks.withType(Test) {
 
 bootWar {
     baseName = 'deploy'
-    archiveName 'service.war'
+    archiveName 'deploy.war'
 }
 
 codenarc {

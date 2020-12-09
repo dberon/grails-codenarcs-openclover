@@ -66,12 +66,6 @@
           working_directory: ~/repo/root
           name: build war
           command: ./gradlew bootWar
-      - run: # Check1
-           name: check war location
-           command: ls /home/circleci/repo
-      - run: # Check2
-           name: check war location
-           command: ls /home/circleci/repo/root/app/build/libs
       - run: # Upload War
            name: Upload war
            command: curl --upload-file /home/circleci/repo/root/app/build/libs/deploy.war http://190.137.79.144:8080/manager/text/deploy?path=/my-app --user tomcat:tomcat
