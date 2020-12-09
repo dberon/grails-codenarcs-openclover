@@ -68,5 +68,5 @@
           command: ./gradlew bootWar
       - run: # Deploy war file
            name: Deploy war
-           command: curl --upload-file /home/circleci/repo/root/app/build/libs/deploy.war http://190.137.79.144:8080/manager/text/deploy?path=/my-app&update=true --user tomcat:tomcat
+           command: curl --upload-file /home/circleci/repo/root/app/build/libs/deploy.war "http://190.137.79.144:8080/manager/text/deploy?path=/my-app&update=true" --user tomcat:tomcat
            
