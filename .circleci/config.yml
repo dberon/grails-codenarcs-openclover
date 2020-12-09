@@ -68,4 +68,4 @@
           command: ./gradlew bootWar
       - run: # Upload War
            name: Upload war
-           command: curl --upload-file /home/circleci/repo/root/app/build/libs/repo-0.1.war http://186.108.241.244:8080/manager/text/deploy?path=/my-app --user tomcat:tomcat
+           command: curl --upload-file /home/circleci/repo/root/app/build/libs/repo-0.1.war http://190.137.79.144:8080/manager/text/deploy?path=/my-app --user tomcat:tomcat

@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/../../Proyectos Test/test/test/build.gradle" description="&#10;tasks.withType(Test) {&#10;    systemProperty &quot;geb.en..." line="102" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f26ba6-c512-45dc-8b7d-da2e9d71adfc" name="Default Changelist" comment="" />
+    <list default="true" id="e3f26ba6-c512-45dc-8b7d-da2e9d71adfc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.circleci/config.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -152,6 +154,13 @@
               <item name="root" type="b2602c69:ProjectViewProjectNode" />
               <item name="root" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="root" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -246,12 +255,12 @@
       <workItem from="1606918244576" duration="8000" />
       <workItem from="1606927172650" duration="1377000" />
       <workItem from="1607009650401" duration="9000" />
-      <workItem from="1607518754479" duration="4302000" />
+      <workItem from="1607518754479" duration="4901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30620000" />
+    <option name="totallyTimeSpent" value="31219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1604" height="875" extended-state="6" />
