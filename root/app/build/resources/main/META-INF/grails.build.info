@@ -1,6 +1,6 @@
-#Thu, 19 Nov 2020 15:03:22 -0300
+#Wed, 09 Dec 2020 12:11:17 -0300
 
 info.app.version=0.1
 info.app.name=app
-grails.env=development
+grails.env=production
 info.app.grailsVersion=4.0.4
