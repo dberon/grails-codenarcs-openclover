@@ -12,7 +12,7 @@
 
  jobs:
    build:
-     working_directory: ~/repo
+     working_directory: ~/repo/root
      docker:
       - image: circleci/openjdk:11-jdk-browsers # <2>
      environment:
@@ -21,8 +21,7 @@
      steps: # <4>
       - checkout  # <5>
       - restore_cache: # <6>
-                key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
-      working_directory: ~/repo/root
+                key: grailsapp-{{ checksum "app/build.gradle" }}-{{ checksum "gradle.properties" }}
       - run: chmod +x gradlew
       - run: ./gradlew --console=plain testClasses  # <7>
       - run: ./gradlew --console=plain integrationTestClasses  # <8>
