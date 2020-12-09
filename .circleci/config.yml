@@ -50,7 +50,7 @@
      steps: # <4>
       - checkout  # <5>
       - restore_cache: # <6>
-                key: grailsapp-{{ checksum "build.gradle" }}-{{ checksum "gradle.properties" }}
+                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}
       - run: chmod +x gradlew
       - save_cache: # <9>
                 paths:
