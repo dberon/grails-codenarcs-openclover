@@ -26,11 +26,10 @@
       - checkout  # <5>
       - restore_cache: # <6>
                 key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
-
       - run:
       name: Download Dependencies
-	  working_directory: ~/repo/app
-	  command: chmod +x gradlew
+      working_directory: ~/code/MyApp
+      command: chmod +x gradlew
       - run: ./gradlew --console=plain testClasses  # <7>
       - run: ./gradlew --console=plain integrationTestClasses  # <8>
       - save_cache: # <9>
