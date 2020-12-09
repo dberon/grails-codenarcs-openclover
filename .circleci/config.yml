@@ -31,9 +31,9 @@
       - run:
           working_directory: ~/repo/root
           name: build war
-          command: ./gradlew dev war
+          command: ./gradlew bootWar
       - store_artifacts: # <11>
-          path: build/libs
+          path: app/build/libs
           destination: libs
       - store_test_results: # <12>
           path: build/test-results
