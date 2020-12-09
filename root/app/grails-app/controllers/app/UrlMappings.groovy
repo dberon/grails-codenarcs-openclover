@@ -12,6 +12,9 @@ class UrlMappings {
         patch "/$controller/$id(.$format)?"(action:"patch")
 
         "/swagger/endpoint"(controller: "swagger", action: "api")
+//        "/graphql/browser"(controller: "graphql", action: "browser")
+        "/graphql" (controller: "graphql", action: "index")
+        "/graphql/browser" (controller: "graphql", action: "browser")
         "/"(controller: 'application', action:'index')
         "500"(view: '/error')
         "404"(view: '/notFound')

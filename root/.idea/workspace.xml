@@ -1,7 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f26ba6-c512-45dc-8b7d-da2e9d71adfc" name="Default Changelist" comment="" />
+    <list default="true" id="e3f26ba6-c512-45dc-8b7d-da2e9d71adfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.clover/clover.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.clover/clover.db-test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.clover/clover.db-test61i47h_khgb3l7p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.clover/clover.db-testcrwc8u_khgb3lhi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.clover/clover.db-teste7u6arm1z8ug_0_s4dbxf_khgb3kwt.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.clover/clover.db-teste7u6atl33atg_1_61i47h_khgb3l7p.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.clover/clover.db-teste7u6avk47css_2_crwc8u_khgb3lhi.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.clover/clover.db-tests4dbxf_khgb3kwn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/.dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/.grailspid" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/.grailspid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/AgisController.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/AgisController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/ApplicationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/ApplicationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/BootStrap$_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/BootStrap$_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/BootStrap$_closure2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/BootStrap$_closure2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/BootStrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/BootStrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/DummyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/DummyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/SwaggerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/SwaggerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/UrlMappings$__clinit__closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/UrlMappings$__clinit__closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/UrlMappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/UrlMappings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/security/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/security/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/security/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/security/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/main/app/security/UserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/groovy/main/app/security/UserRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/test/app/AgisControllerSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/test/app/DummyControllerSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/classes/groovy/test/app/SwaggerControllerSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/clover.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/agg-pkgs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/AgisController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/AgisController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/AgisControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/AgisControllerSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/AgisControllerSpec_test_something_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/AgisControllerSpec_test_something_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/ApplicationController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/ApplicationController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/DummyController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/DummyController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/DummyControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/DummyControllerSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/DummyControllerSpec_test_something_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/DummyControllerSpec_test_something_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/SwaggerController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/SwaggerController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/SwaggerControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/SwaggerControllerSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/SwaggerControllerSpec_test_something_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/SwaggerControllerSpec_test_something_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/pkg-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/quick-wins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/Role.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/Role.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/User.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/UserPasswordEncoderListener.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/UserPasswordEncoderListener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/UserRole.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/UserRole.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/pkg-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/quick-wins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/test-pkg-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/security/top-risks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/test-AgisControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/test-DummyControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/test-SwaggerControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/test-pkg-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/testsrc-pkg-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/app/top-risks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/atlassian-icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/atlassian-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/atlassian-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/atlassian-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/aui-experimental.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/aui-icon-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/aui-icon-tools.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/aui-ie9.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/aui-toolbar-24px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/aui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/bg-000-trans20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/bg-000-trans50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/bg-grippy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-dropdown-active-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-dropdown-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-dropdown-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-dropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-maximize-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-maximize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-minimize-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-minimize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-move-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-move.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/core/icon-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/fav_off_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/fav_on_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/fonts/atlassian-icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/fonts/atlassian-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/fonts/atlassian-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/fonts/atlassian-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/forms/icon-date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/forms/icon-help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/forms/icon-range.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/forms/icon-required.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/forms/icon-users.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/forms/icons_form.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/aui-icon-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/aui-icon-tools.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/aui-message-icon-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-dropdown-active-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-dropdown-active.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-dropdown-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-dropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-maximize-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-maximize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-minimize-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-minimize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-move-d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-move.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/core/icon-search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/forms/icon-date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/forms/icon-help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/forms/icon-range.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/forms/icon-required.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/forms/icon-users.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-close-inverted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-error-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-hint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/icons/messages/icon-warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/bg-000-trans20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/bg-000-trans50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/fav_off_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/fav_on_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/forms/icons_form.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/aui-message-icon-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-close-inverted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-error-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-hint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-success.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/icons/messages/icon-warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/images/wait.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/messages/icon-close-inverted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/messages/icon-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/select2-spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/select2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/select2x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/toolbar/aui-toolbar-24px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/css/wait.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/js/aui-datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/js/aui-experimental.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/js/aui-soy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/aui/js/aui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/cloud.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/clover-descriptions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/clover-tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/clover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/classComplexityChart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/classDistrubutionChart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/clover.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/clover_logo_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/collapse.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/expand.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/failure_gutter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/spacer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/srcFileCovDistChart9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/img/treemap.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/jit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/jquery-1.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/package-nodes-tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/pkg-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/quick-wins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/test-pkg-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/testsrc-agg-pkgs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/testsrc-pkg-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/top-risks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/treemap-dash-json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/treemap-json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/clover/html/treemap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/codenarc/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/codenarc/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/classes/app.AgisControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/classes/app.DummyControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/classes/app.SwaggerControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/packages/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/classes/app.AgisControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/classes/app.DummyControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/classes/app.SwaggerControllerSpec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/packages/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/resources/integrationTest/application.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/resources/integrationTest/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/resources/integrationTest/logback-test.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/resources/integrationTest/logback.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/resources/integrationTest/spring/resources.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/resources/main/META-INF/grails.build.info" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/resources/main/META-INF/grails.build.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/resources/main/spring/resources.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/resources/main/spring/resources.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/test-results/test/TEST-app.AgisControllerSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/test-results/test/TEST-app.DummyControllerSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/test-results/test/TEST-app.SwaggerControllerSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/test/jar_extract_17305144908938217132_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/test/jar_extract_5426778700114020014_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/test/jar_extract_8612528741377707288_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/grails-app/conf/spring/resources.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/app/grails-app/conf/spring/resources.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/grails-app/controllers/app/UrlMappings.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/app/grails-app/controllers/app/UrlMappings.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/grails-app/init/app/BootStrap.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/app/grails-app/init/app/BootStrap.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/AgisCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/AgisController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/ApplicationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/ApplicationLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/BootStrap$_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/BootStrap$_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/BootStrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/DummyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/SwaggerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/UrlMappings$__clinit__closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/UrlMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/Role$__clinit__closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/Role$__clinit__closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/User$__clinit__closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/User$__clinit__closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserPasswordEncoderListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$__clinit__closure5$_closure9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$__clinit__closure5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$__clinit__closure6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$_criteriaFor_closure1$_closure7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$_criteriaFor_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$_removeAll_closure3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$_removeAll_closure4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$_remove_closure2$_closure8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole$_remove_closure2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/out/production/classes/app/security/UserRole.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -26,12 +310,222 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradle/clover.gradle">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="80" column="42" lean-forward="true" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/GraphqlController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="e#40#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql-plugin/2.0.1.BUILD-SNAPSHOT/945a34d6e49b40f31eaf8319bc2e8b9487c1da4c/gorm-graphql-plugin-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/plugin/GraphQLContextBuilder.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql-plugin/2.0.1.BUILD-SNAPSHOT/945a34d6e49b40f31eaf8319bc2e8b9487c1da4c/gorm-graphql-plugin-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/plugin/DefaultGraphQLContextBuilder.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding>
+                <element signature="e#40#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/gorm-graphql/2.0.1.BUILD-SNAPSHOT/764db667b481353605053fe3698710a2c4ba0ce8/gorm-graphql-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/interceptor/impl/BaseGraphQLFetcherInterceptor.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/init/app/Application.groovy">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyGraphQLCustomizer.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#21#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyGraphQLContextBuilder.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+              <folding>
+                <element signature="e#21#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/CityInterceptor.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+              <folding>
+                <element signature="e#21#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/conf/application.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/conf/logback-test.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/conf/logback.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/conf/spring/resources.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/security/UserPasswordEncoderListener.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/geographic_data/City.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#29#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/UrlMappings.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/DummyController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/init/app/BootStrap.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#13#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/ApplicationController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -40,48 +534,44 @@
         <entry file="file://$PROJECT_DIR$/app/cloverFix.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/conf/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/Role.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="105">
               <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding>
                 <element signature="e#22#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/User.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding>
-                <element signature="e#22#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/UserRole.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="90">
               <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding>
                 <element signature="e#22#57#0" expanded="true" />
               </folding>
             </state>
           </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -111,7 +601,44 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/User.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#22#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>version</find>
+      <find>swagger</find>
+      <find>RootQuery</find>
+      <find>beans</find>
+      <find>bean s</find>
+      <find>com.github</find>
+      <find>exclude</find>
+      <find>org.grails.pluigns:cache</find>
+      <find>wslite</find>
+      <find>graphql</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -122,21 +649,38 @@
         <option value="$PROJECT_DIR$/app/grails-app/domain/app/security/Role.groovy" />
         <option value="$PROJECT_DIR$/app/grails-app/domain/app/security/User.groovy" />
         <option value="$PROJECT_DIR$/app/grails-app/domain/app/security/UserRole.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/controllers/app/GraphqlInterfaceController.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/controllers/app/UrlMappings.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/controllers/app/GraphqlController.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/domain/app/geographic_data/City.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/domain/app/Graphql/MyGraphQLContextBuilder.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/domain/app/Graphql/CityUpdateInterceptor.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/domain/app/Graphql/MyGraphQLCustomizer.groovy" />
+        <option value="$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyCustomGraphQLContextBuilder.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/init/app/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/app/src/main/groovy/app/graphql/DefaultGraphQLContextBuilder.groovy" />
+        <option value="$PROJECT_DIR$/app/src/main/groovy/app/graphql/CityUpdateInterceptor.groovy" />
+        <option value="$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyGraphQLContextBuilder.groovy" />
+        <option value="$PROJECT_DIR$/app/src/main/groovy/app/graphql/CityInterceptor.groovy" />
+        <option value="$PROJECT_DIR$/app/grails-app/conf/spring/resources.groovy" />
+        <option value="$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyGraphQLCustomizer.groovy" />
+        <option value="$PROJECT_DIR$/app/package.json" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="373" />
-    <option name="width" value="782" />
-    <option name="height" value="894" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="371" />
+    <option name="width" value="776" />
+    <option name="height" value="891" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,34 +696,25 @@
             <path>
               <item name="root" type="b2602c69:ProjectViewProjectNode" />
               <item name="root" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="root" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="root" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="gradle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Grails" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="grails.last.selected.app.url" value="file://$PROJECT_DIR$/app" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Agis REST/root" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,6 +749,7 @@
       <setting name="grailsApplicationRoot" value="$PROJECT_DIR$/app" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -232,15 +768,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605274047570</updated>
-      <workItem from="1605274048734" duration="1725000" />
+      <workItem from="1605274048734" duration="3621000" />
+      <workItem from="1605533566267" duration="4560000" />
+      <workItem from="1605614828148" duration="5014000" />
+      <workItem from="1605791707695" duration="6984000" />
+      <workItem from="1605879499988" duration="598000" />
+      <workItem from="1606480216890" duration="711000" />
+      <workItem from="1606838253410" duration="3436000" />
+      <workItem from="1606918244576" duration="8000" />
+      <workItem from="1606927172650" duration="1377000" />
+      <workItem from="1607009650401" duration="9000" />
+      <workItem from="1607518754479" duration="417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1725000" />
+    <option name="totallyTimeSpent" value="26735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1604" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -248,9 +795,8 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24967825" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.28507078" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Grails Console" weight="0.3288948" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32756326" />
       <window_info anchor="bottom" id="Docker" order="2" />
@@ -259,15 +805,15 @@
       <window_info anchor="bottom" id="Java Enterprise" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Build" order="8" weight="0.3288948" />
+      <window_info active="true" anchor="bottom" id="Build" order="8" visible="true" weight="0.32843792" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.32756326" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.32843792" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39919892" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="right" id="CDI" />
+      <window_info anchor="bottom" id="Grails Console" order="16" weight="0.32843792" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -279,7 +825,47 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="right" id="CDI" order="11" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.28507078" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32756326" />
+      <window_info anchor="bottom" id="Docker" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3288948" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32843792" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.32843792" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39919892" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Grails Console" order="16" weight="0.32843792" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="right" id="CDI" order="11" />
+    </layout-to-restore>
   </component>
   <component name="TraitInjectorService">
     <option name="state">
@@ -528,7 +1114,360 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql/1.0.2/e827abb7d50765551b25dbb440fafd72351a0ffd/gorm-graphql-1.0.2-sources.jar!/org/grails/gorm/graphql/plugin/GraphqlController.groovy</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql/1.0.2/e827abb7d50765551b25dbb440fafd72351a0ffd/gorm-graphql-1.0.2-sources.jar!/org/grails/gorm/graphql/plugin/GraphqlController.groovy</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql-plugin/2.0.1.BUILD-SNAPSHOT/945a34d6e49b40f31eaf8319bc2e8b9487c1da4c/gorm-graphql-plugin-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/plugin/GraphqlController.groovy</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql-plugin/2.0.1.BUILD-SNAPSHOT/945a34d6e49b40f31eaf8319bc2e8b9487c1da4c/gorm-graphql-plugin-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/plugin/GraphqlController.groovy</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/gorm-graphql/2.0.1.BUILD-SNAPSHOT/764db667b481353605053fe3698710a2c4ba0ce8/gorm-graphql-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/interceptor/impl/BaseGraphQLFetcherInterceptor.groovy</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/gorm-graphql/2.0.1.BUILD-SNAPSHOT/764db667b481353605053fe3698710a2c4ba0ce8/gorm-graphql-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/interceptor/impl/BaseGraphQLFetcherInterceptor.groovy</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/gorm-graphql/2.0.1.BUILD-SNAPSHOT/764db667b481353605053fe3698710a2c4ba0ce8/gorm-graphql-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/interceptor/impl/BaseGraphQLFetcherInterceptor.groovy</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/gorm-graphql/2.0.1.BUILD-SNAPSHOT/764db667b481353605053fe3698710a2c4ba0ce8/gorm-graphql-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/interceptor/impl/BaseGraphQLFetcherInterceptor.groovy</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyGraphQLContextBuilder.groovy</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyGraphQLContextBuilder.groovy</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/CityInterceptor.groovy</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/CityInterceptor.groovy</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/CityInterceptor.groovy</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>springSecurityService.currentUser</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>springSecurityService</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>springSecurityService.getCurrentUser()</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>context.springSecurityService</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>context</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>environment</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>User.get(1)</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql-plugin/2.0.1.BUILD-SNAPSHOT/945a34d6e49b40f31eaf8319bc2e8b9487c1da4c/gorm-graphql-plugin-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/plugin/GraphqlController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#40#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/GraphqlInterfaceController.groovy" />
+    <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/Graphql/MyGraphQLContextBuilder.groovy" />
+    <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/Graphql/CityUpdateInterceptor.groovy" />
+    <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/Graphql/MyGraphQLCustomizer.groovy" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/CityUpdateInterceptor.groovy" />
+    <entry file="file://$PROJECT_DIR$/app/src/test/groovy/app/GraphqlControllerSpec.groovy" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql/1.0.2/e827abb7d50765551b25dbb440fafd72351a0ffd/gorm-graphql-1.0.2-sources.jar!/org/grails/gorm/graphql/plugin/GraphqlController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json" />
+    <entry file="file://$PROJECT_DIR$/gradle/clover.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql-plugin/2.0.1.BUILD-SNAPSHOT/945a34d6e49b40f31eaf8319bc2e8b9487c1da4c/gorm-graphql-plugin-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/plugin/GraphQLContextBuilder.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql-plugin/2.0.1.BUILD-SNAPSHOT/945a34d6e49b40f31eaf8319bc2e8b9487c1da4c/gorm-graphql-plugin-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/plugin/DefaultGraphQLContextBuilder.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#40#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/gorm-graphql/2.0.1.BUILD-SNAPSHOT/764db667b481353605053fe3698710a2c4ba0ce8/gorm-graphql-2.0.1.BUILD-SNAPSHOT-sources.jar!/org/grails/gorm/graphql/interceptor/impl/BaseGraphQLFetcherInterceptor.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/init/app/Application.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyGraphQLCustomizer.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#21#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/MyGraphQLContextBuilder.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding>
+            <element signature="e#21#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/graphql/CityInterceptor.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <element signature="e#21#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/conf/application.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/conf/logback-test.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/conf/logback.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/conf/spring/resources.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/groovy/app/security/UserPasswordEncoderListener.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/geographic_data/City.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#29#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/DummyController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/init/app/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#13#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/ApplicationController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/cloverFix.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/conf/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/Role.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#22#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/UserRole.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#22#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/groovy/app/AgisControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -550,50 +1489,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/clover.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/cloverFix.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/Role.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#22#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/User.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="195">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="e#22#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/grails-app/domain/app/security/UserRole.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/grails-app/controllers/app/GraphqlController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="825">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
-            <element signature="e#22#57#0" expanded="true" />
+            <element signature="e#40#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="80" column="42" lean-forward="true" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
         </state>
       </provider>
     </entry>

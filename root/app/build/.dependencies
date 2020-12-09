@@ -6,6 +6,7 @@ dependencies:
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-testing-support/2.1.2/870b32ec255705bb1cf50cdb77bd340c394e9158/grails-web-testing-support-2.1.2.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/views-json-testing-support/2.0.2/1b04113f858cc0ec571fe687e8b9c971d5bdac3d/views-json-testing-support-2.0.2.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/4.0.4/40092049aa3c26e8d2514302fb8d5ae612161e79/grails-plugin-interceptors-4.0.4.jar
+- file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gorm-graphql-plugin/2.0.1.BUILD-SNAPSHOT/f5359d1bfe0db1a56eaedfe5dee93b7b86d45e2c/gorm-graphql-plugin-2.0.1.BUILD-SNAPSHOT.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-url-mappings/4.0.4/9fc5deee02707edc547894c6170aaf1de4b47e2b/grails-plugin-url-mappings-4.0.4.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails.plugins/views-json-templates/2.0.2/239c581b0fa66158c6de7ad5109e49be15e6ccfe/views-json-templates-2.0.2.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails.plugins/views-json/2.0.2/1deaf5af806fa2e15623d11c2d3efdedc8690b99/views-json-2.0.2.jar
@@ -68,6 +69,7 @@ dependencies:
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-bootstrap/4.0.4/c52c954046ad249b009782b3a05575e8703d3266/grails-bootstrap-4.0.4.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-events-compat/4.0.0/9cbbec92673660d774daa8186ce4da55e53f30e5/grails-events-compat-4.0.0.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-events-transform/4.0.0/bfc855d46d81c761190293f964156a609d96ff30/grails-events-transform-4.0.0.jar
+- file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/gorm-graphql/2.0.1.BUILD-SNAPSHOT/5dac9a118bdb0f8e4b516e674fc42c9b8ea5d0b1/gorm-graphql-2.0.1.BUILD-SNAPSHOT.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-test/7.0.6.RELEASE/b3f723254cedb61e70ed973865c4cb0ce7fef455/grails-datastore-gorm-test-7.0.6.RELEASE.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm/7.0.6.RELEASE/3837277df5eabbd39aded6c47a5cd99ac9964361/grails-datastore-gorm-7.0.6.RELEASE.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-web/7.0.6.RELEASE/d180a43f8f75e76514c0b73a0cde6dd5c5a2986f/grails-datastore-web-7.0.6.RELEASE.jar
@@ -107,6 +109,7 @@ dependencies:
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-core/1.5.17/527636afc525df6ba1329f894df3880e69444170/swagger-core-1.5.17.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-models/1.5.17/8e03ed429bdfbddff22a286aff9a45a675597275/swagger-models-1.5.17.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-core/1.3.7/e8f9cf3e9c2dd9360acf6a3b3cfc300b6d12f407/micronaut-core-1.3.7.jar
+- file:/home/diego/.gradle/caches/modules-2/files-2.1/com.graphql-java/graphql-java/14.0/ddafcd9144c0c014346e70bbbc8443c376cb4a11/graphql-java-14.0.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/b5a4b6d16ab13e34a88fae84c35cd5d68cac922c/slf4j-api-1.7.30.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/25665ac8c0b62f50e6488173233239120fc52c96/javax.persistence-api-2.2.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar
@@ -185,7 +188,6 @@ dependencies:
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.1-b06/9c4c2400f2d8e35c62d636c13012e1f68c370a00/javax.el-api-3.0.1-b06.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.multiverse/multiverse-core/0.7.0/db77d55199bc5672f05f5d725b70dd10033251ed/multiverse-core-0.7.0.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.codehaus.jsr166-mirror/jsr166y/1.7.0/8547fcb1c29b4f8c745c3f49a536aca58fc30f54/jsr166y-1.7.0.jar
-- file:/home/diego/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.1.9/7745db37e5f42a1eeaba99178916a6d7cb1a434/groovy-all-2.1.9.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/com.sun.xml.bind/jaxb-impl/2.3.1/a1a12b85ba1435b4189e065f7dafcc3fb9410d38/jaxb-impl-2.3.1.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/txw2/2.3.1/a09d2c48d3285f206fafbffe0e50619284e92126/txw2-2.3.1.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/3.0.7/c197c86ceec7318b1284bffb49b54226ca774003/istack-commons-runtime-3.0.7.jar
@@ -220,6 +222,8 @@ dependencies:
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/fc89b03860d11d6213d0154a62bcd1c2f69b9efa/checker-compat-qual-2.0.0.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.10.6/26ef5b746eba68dffc7040c86e80b434e20e9b12/joda-time-2.10.6.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar
+- file:/home/diego/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.7.2/e27d8ab4f984f9d186f54da984a6ab1cccac755e/antlr4-runtime-4.7.2.jar
+- file:/home/diego/.gradle/caches/modules-2/files-2.1/com.graphql-java/java-dataloader/2.2.3/e280954c8b421983667bc67b97177dafd2334e74/java-dataloader-2.2.3.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-test/2.5.12/1c1975e2a21f603037602a6a1f92000a295f9ca/groovy-test-2.5.12.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-groovydoc/2.5.12/9b466774de63bc3bea4a964271d44ff2933ef794/groovy-groovydoc-2.5.12.jar
 - file:/home/diego/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-antlr/1.9.13/d5b701718c6de5620fa78e0aedb64cdcae1336cf/ant-antlr-1.9.13.jar
