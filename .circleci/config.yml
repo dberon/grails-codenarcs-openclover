@@ -25,14 +25,14 @@
      steps: # <4>
       - checkout  # <5>
       - restore_cache: # <6>
-                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}
+                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}-{{ arch}}
       - run: sudo chmod +x gradlew
       - run: ./gradlew --console=plain testClasses  # <7>
       - run: ./gradlew --console=plain integrationTestClasses  # <8>
       - save_cache: # <9>
                 paths:
                   - ~/.gradle
-                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}
+                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}-{{ arch}}
       - run: ./gradlew bootWar  # <10>
       - store_artifacts: # <11>
           path: build/libs
