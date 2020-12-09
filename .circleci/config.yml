@@ -24,17 +24,15 @@
       TERM: dumb
      steps: # <4>
       - checkout  # <5>
-      - run: sudo chown -R $USER:$USER /root/app/build.gradle
-      - run: sudo chown -R $USER:$USER /root/gradle.properties
       - restore_cache: # <6>
-                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}
+                key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
       - run: sudo chmod +x gradlew
       - run: ./gradlew --console=plain testClasses  # <7>
       - run: ./gradlew --console=plain integrationTestClasses  # <8>
       - save_cache: # <9>
                 paths:
                   - ~/.gradle
-                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}
+                key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
       - run: ./gradlew bootWar  # <10>
       - store_artifacts: # <11>
           path: build/libs
@@ -51,15 +49,13 @@
       TERM: dumb
      steps: # <4>
       - checkout  # <5>
-      - run: sudo chown -R $USER:$USER /root/app/build.gradle
-      - run: sudo chown -R $USER:$USER /root/gradle.properties
       - restore_cache: # <6>
-                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}
+                key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
       - run: sudo chmod +x gradlew
       - save_cache: # <9>
                 paths:
                   - ~/.gradle
-                key: grailsapp-{{ checksum "/root/app/build.gradle" }}-{{ checksum "/root/gradle.properties" }}
+                key: grailsapp-{{ checksum "root/app/build.gradle" }}-{{ checksum "root/gradle.properties" }}
       - run: ./gradlew bootWar  # <10>
       - run: # Upload War
            name: Upload war
