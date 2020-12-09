@@ -10,7 +10,7 @@ class DummyController {
 
     @Secured(['permitAll'])
     def index() {
-        String message = 'Dummy text'
+        String message = 'Dummy text modified'
         render message
     }
 
